@@ -1,0 +1,367 @@
+{
+  "foodCategories": [
+    {
+      "name": "غذای ایرانی",
+      "id": 101,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "type": "category"
+    },
+    {
+      "name": "فست فود",
+      "id": 102,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "type": "category"
+    },
+    {
+      "name": "سالاد",
+      "id": 103,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "type": "category"
+    },
+    {
+      "name": "غدای دریایی",
+      "id": 104,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "type": "category"
+    },
+    {
+      "name": " پاستا",
+      "id": 105,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "type": "category"
+    },
+    {
+      "name": "دسر",
+      "id": 106,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "type": "category"
+    },
+    {
+      "name": "نوشیدنی",
+      "id": 107,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "type": "category"
+    }
+  ],
+  "foods": [
+    {
+      "name": "کباب",
+      "id": 1,
+      "category_id": 101,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 15,
+      "type": "product",
+      "price": "132000",
+      "rate": "4.0",
+      "count": 3
+    },
+    {
+      "name": "جوجه کباب",
+      "id": 2,
+      "category_id": 101,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 25,
+      "type": "product",
+      "price": "75000",
+      "rate": "4.0",
+      "count": 10
+    },
+    {
+      "name": "خورشت سبزی ",
+      "id": 3,
+      "category_id": 101,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 18,
+      "type": "product",
+      "price": "97000",
+      "rate": "3.8",
+      "count": 28
+    },
+    {
+      "name": "خورشت قیمه ",
+      "id": 4,
+      "category_id": 101,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 20,
+      "type": "product",
+      "price": "87000",
+      "rate": "4.0",
+      "count": 12
+    },
+    {
+      "name": "خورشت فسنجان ",
+      "id": 5,
+      "category_id": 101,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "189000",
+      "rate": "4.0",
+      "count": 17
+    },
+    {
+      "name": "پیتزا  ",
+      "id": 6,
+      "category_id": 102,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "156900",
+      "rate": "4.5",
+      "count": 13
+    },
+    {
+      "name": "برگر ساده ",
+      "id": 7,
+      "category_id": 102,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 10,
+      "type": "product",
+      "price": "132000",
+      "rate": "4.0",
+      "count": 32
+    },
+    {
+      "name": "ماشروم برگر  ",
+      "id": 8,
+      "category_id": 102,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "152000",
+      "rate": "4.0",
+      "count": 32
+    },
+    {
+      "name": "مرغ سوخاری  ",
+      "id": 9,
+      "category_id": 102,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "132000",
+      "rate": "4.5",
+      "count": 12
+    },
+    {
+      "name": "استیک  ",
+      "id": 10,
+      "category_id": 102,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "172000",
+      "rate": "3.9",
+      "count": 45
+    },
+    {
+      "name": "سالاد فصل  ",
+      "id": 11,
+      "category_id": 103,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 27,
+      "type": "product",
+      "price": "50000",
+      "rate": "4.0",
+      "count": 31
+    },
+    {
+      "name": "سالاد سزار  ",
+      "id": 12,
+      "category_id": 103,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "120000",
+      "rate": "4.0",
+      "count": 22
+    },
+    {
+      "name": "سالاد شیرازی  ",
+      "id": 13,
+      "category_id": 103,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "29800",
+      "rate": "4.0",
+      "count": 11
+    },
+    {
+      "name": "سالاد ماکارونی  ",
+      "id": 14,
+      "category_id": 103,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "70000",
+      "rate": "4.0",
+      "count": 32
+    },
+    {
+      "name": "دیس ماهی   ",
+      "id": 15,
+      "category_id": 104,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "162000",
+      "rate": "4.0",
+      "count": 37
+    },
+    {
+      "name": "میگو ",
+      "id": 16,
+      "category_id": 104,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "192000",
+      "rate": "4.0",
+      "count": 25
+    },
+    {
+      "name": "خرچنگ ",
+      "id": 17,
+      "category_id": 104,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "232000",
+      "rate": "4.0",
+      "count": 12
+    },
+    {
+      "name": "کوسه ",
+      "id": 18,
+      "category_id": 104,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "212000",
+      "rate": "4.0",
+      "count": 7
+    },
+    {
+      "name": "پاستا الفردو ",
+      "id": 19,
+      "category_id": 105,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "132000",
+      "rate": "4.0",
+      "count": 6
+    },
+    {
+      "name": "پاستا پنه ",
+      "id": 20,
+      "category_id": 105,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "142000",
+      "rate": "4.0",
+      "count": 18
+    },
+    {
+      "name": "شله زرد",
+      "id": 21,
+      "category_id": 106,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 10,
+      "type": "product",
+      "price": "50000",
+      "rate": "4.0",
+      "count": 16
+    },
+    {
+      "name": "پاناکوتا",
+      "id": 22,
+      "category_id": 106,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "55000",
+      "rate": "4.0",
+      "count": 14
+    },
+    {
+      "name": "پودینگ شکلاتی",
+      "id": 23,
+      "category_id": 106,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 15,
+      "type": "product",
+      "price": "44000",
+      "rate": "4.0",
+      "count": 14
+    },
+    {
+      "name": "ژله بستنی",
+      "id": 24,
+      "category_id": 106,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 20,
+      "type": "product",
+      "price": "50000",
+      "rate": "4.0",
+      "count": 18
+    },
+    {
+      "name": "چیزکیک",
+      "id": 25,
+      "category_id": 106,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 12,
+      "type": "product",
+      "price": "44000",
+      "rate": "4.0",
+      "count": 15
+    },
+    {
+      "name": "دوغ",
+      "id": 26,
+      "category_id": 107,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 0,
+      "type": "product",
+      "price": "13000",
+      "rate": "4.0",
+      "count": 10
+    },
+    {
+      "name": "نوشابه زرد",
+      "id": 27,
+      "category_id": 107,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 5,
+      "type": "product",
+      "price": "10000",
+      "rate": "4.0",
+      "count": 18
+    },
+    {
+      "name": "کوکا",
+      "id": 28,
+      "category_id": 107,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 5,
+      "type": "product",
+      "price": "12000",
+      "rate": "4.0",
+      "count": 18
+    },
+    {
+      "name": "لیموناد",
+      "id": 29,
+      "category_id": 107,
+      "img": "https://www.offdecor.com/image/media/postcategory/5258/Iranian-Food-Restaurants.jpg",
+      "discount": 5,
+      "type": "product",
+      "price": "112000",
+      "rate": "4.0",
+      "count": 18
+    }
+  ]
+}
